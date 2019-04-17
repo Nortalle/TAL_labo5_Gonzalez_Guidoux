@@ -6,4 +6,7 @@ wikipedia_augmented.dat
 
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
-#
+
+wikipedia_augmented.dat
+
+word2vec-google-news-300.gz
