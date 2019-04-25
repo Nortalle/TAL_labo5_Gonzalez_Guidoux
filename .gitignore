@@ -1,7 +1,10 @@
 ### JupyterNotebook ###
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
-
+text8.zip
+*/wordsim353/*
+*/wordsim353
+wordsim353/
 wikipedia_augmented.dat
 
 # Remove previous ipynb_checkpoints
